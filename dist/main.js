@@ -4806,7 +4806,7 @@ function findPlayerDebuffs() {
 }
 /* Settings */
 var settingsObject = {
-    settingsHeader: _a1sauce__WEBPACK_IMPORTED_MODULE_0__.createHeading('h2', 'Settings - v1.0.0'),
+    settingsHeader: _a1sauce__WEBPACK_IMPORTED_MODULE_0__.createHeading('h2', 'Deep Sea Insulation - v1.0.0'),
     settingDiscord: _a1sauce__WEBPACK_IMPORTED_MODULE_0__.createText("Please <a href=\"https://discord.gg/KJ2SgWyJFF\" target=\"_blank\" rel=\"nofollow\">join the Discord</a> for any suggestions or support."),
     beginGeneral: _a1sauce__WEBPACK_IMPORTED_MODULE_0__.createHeading('h3', 'Alarm Settings'),
     volume: _a1sauce__WEBPACK_IMPORTED_MODULE_0__.createRangeSetting('volume', 'Volume', { defaultValue: '100', min: 0, max: 100, unit: '%' }),

@@ -185,7 +185,7 @@ function findPlayerDebuffs() {
 
 /* Settings */
 const settingsObject = {
-	settingsHeader: sauce.createHeading('h2', 'Settings - v1.0.0'),
+	settingsHeader: sauce.createHeading('h2', 'Deep Sea Insulation - v1.0.0'),
 	settingDiscord: sauce.createText(
 		`Please <a href="https://discord.gg/KJ2SgWyJFF" target="_blank" rel="nofollow">join the Discord</a> for any suggestions or support.`
 	),
