@@ -1,0 +1,14 @@
+// Typescript configuration file
+{
+	"compilerOptions": {
+		// Settings to make typescript play nice with webpacks
+		"resolveJsonModule": true,
+		"esModuleInterop": true,
+		"allowSyntheticDefaultImports": true,
+		"resolvePackageJsonExports": true,
+		"moduleResolution": "bundler",
+		"noEmit": false,
+		"module": "ESNext",
+		"lib": ["es2020", "dom"]
+	}
+}
